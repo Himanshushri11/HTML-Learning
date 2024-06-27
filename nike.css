@@ -1,0 +1,135 @@
+*{
+    background-color:#ffebcd;
+}
+.nevbar{
+    font-size: 20px;
+    height: 60px;
+    color: black;
+    margin-left: 5%;
+    display: inline;
+}
+a{
+    margin: 40px;
+}
+.menu{
+    width: 35px;
+    height: 5px;
+    background-color: black;
+    margin: 6px 0;
+    
+}
+h1{
+    padding-left: 800px;
+}
+h2{
+    margin-top: 80px; 
+    padding-left:200px;
+    font-size:xx-large;
+    margin-bottom: 100pxs;
+}
+p{
+    
+    padding-left:200px;
+    margin-bottom: 100px;
+    
+}
+.shoes{
+ 
+display: flex;
+padding-left: 25px;
+
+}
+.shoes1{
+    padding-left: 80px;
+    padding-top: 60px;
+}
+.shoes2{
+    padding-left: 80px;
+    padding-top: 60px;
+}
+.shoes3{
+    padding-left: 80px;
+    padding-top: 60px;
+
+}
+.shoes4{
+    padding-left: 80px;
+    padding-top: 60px;
+}
+.price{
+    list-style-type: disc;
+}
+.logo{
+    border: 5px solid black;
+    border-radius: 50px;
+    
+}
+.shop{
+   background-color: red;
+   height: 50px;
+   width: 100px;
+   margin-left: 900px;
+   margin-top: 100px;
+   border: 2px solid black;
+   border-radius: 20px;
+   font-size: 20px;
+   color: white;
+   font-family: Arial, Helvetica, sans-serif;
+}
+.price{
+    display: flex;
+    font-size: x-large;
+    padding-left: 80px;
+}
+.price2{
+    margin-left:240px ;
+}
+.price3{
+    margin-left:300px ;
+}
+.price4{
+    margin-left:200px ;
+}
+.wrapper{
+    max-height: 400px;
+    border: 2px solid #ffebcd;
+    border-radius: 50px;
+    display: flex;
+    overflow-y: scroll;
+    margin-top: 80px;
+}
+.wrapper::-webkit-scrollbar{
+    width: 0px;
+}
+.wrapper.item{
+    min-width: 200px;
+    height: 50px;
+    line-height: 110px;
+    text-align: center;
+    margin: 2px;
+}
+.searchstyle{
+    float: center;
+    height: 50px;
+    width: 600px;
+    background-color: white;
+    border-radius: 50px;
+}
+.btn{
+    font-size: 30px;
+    background-color: rgb(50, 50, 88);
+    color: white;
+    border-radius: 5px;
+    margin-top: 2px;
+
+}
+::placeholder{
+    font-size: 30px;
+    padding: 15px;
+    padding-left: 30px;
+}
+footer{
+    height: 600px;
+    width: 2000px;
+    background-color:rgb(12, 7, 7);
+}
