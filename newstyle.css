@@ -1,0 +1,53 @@
+*{
+    color:white;
+}
+.nevbar{
+    height:60px;
+    background-color:black;
+   
+   
+   
+    
+ 
+}
+button{
+    color:#f08804;
+    margin-right: 110px;
+}
+#logo{
+    color:#f08804;
+    font-size:25px;
+    margin-right:50px;
+    text-decoration: underline ; 
+   
+}
+a{
+    margin-right:200px;
+}
+#bar{
+    text-decoration: underline;
+    font-size:15px;
+}
+.box1{
+    height: 100px;
+    width: 100px;
+    background-color: black;
+    color: white;
+    margin: 25px;
+    padding: 25px;
+    display: flex;
+    border: yellow;
+}
+.footer{
+    background-color: black;
+    color: white;
+    text-align: center;
+    height: 600px;
+    width: 800px;
+}
+.in{
+    display: inline;
+}
+.style{
+    display: inline;
+}

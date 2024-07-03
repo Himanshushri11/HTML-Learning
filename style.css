@@ -1,0 +1,40 @@
+
+.jobs{
+    text-align:center;
+    text-decoration: underline;
+}
+.HR{
+    font-size:20px;
+    
+}
+.container{
+    border: 1px solid black; 
+    width: 500px;
+    padding: 20px;
+    background-color: brown;
+    color:white;
+    transition-duration: 3s;
+}
+.container:hover{
+ background-color: chartreuse;
+ margin-left: 30%;
+ margin-top: 15%;
+ cursor: pointer;
+ border-radius: 70px;
+}
+body{
+    background-color: chartreuse;
+    transition-duration: 3s;
+}
+body:hover{
+    background-color: brown;
+}
+button{
+    margin-left: 50%;
+    margin-top: 20px;
+    color: white;
+    background-color: blue;
+    font-size: 18px;
+    box-shadow: 0px,16px,32px;
+    border-radius: 10px;
+}
